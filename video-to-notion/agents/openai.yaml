@@ -1,0 +1,4 @@
+interface:
+  display_name: "video-to-notion"
+  short_description: "将视频忠实整理为中文文章并保存到 Notion，包含首次配置引导"
+  default_prompt: "使用 $video-to-notion 将我提供的视频链接或本地视频整理成忠实于原内容的中文文章并保存到 Notion；缺少配置时引导我完成。"
